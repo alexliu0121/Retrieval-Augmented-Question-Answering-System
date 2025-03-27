@@ -94,6 +94,6 @@ Explored k-values and prompt variations in my DIY system:
 I’m fascinated by how retrieval can supercharge language models, so I dove into RAG systems to see what I could create. It’s been a blast experimenting with embeddings, FAISS, and prompt tweaks—plus, I learned a ton about balancing accuracy and noise in NLP.
 
 ## Next Steps
-- Test more prompts (prompt engineering is a rabbit hole!).
+- Test more prompts.
 - Try other embedding models for better retrieval.
 - Scale it up with bigger datasets.
