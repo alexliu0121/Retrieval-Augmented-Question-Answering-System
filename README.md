@@ -90,9 +90,6 @@ Explored k-values and prompt variations in my DIY system:
 - Exact Match: 52.0  
 - F1 Score: 61.4
 
-## Why I Built This
-I’m fascinated by how retrieval can supercharge language models, so I dove into RAG systems to see what I could create. It’s been a blast experimenting with embeddings, FAISS, and prompt tweaks—plus, I learned a ton about balancing accuracy and noise in NLP.
-
 ## Next Steps
 - Test more prompts.
 - Try other embedding models for better retrieval.
